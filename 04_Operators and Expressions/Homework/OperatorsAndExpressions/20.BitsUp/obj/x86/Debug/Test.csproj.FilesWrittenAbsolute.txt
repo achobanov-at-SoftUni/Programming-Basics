@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 4 - Operators and Expressions/Homework/OperatorsAndExpressions/20.BitsUp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 4 - Operators and Expressions/Homework/OperatorsAndExpressions/20.BitsUp/bin/Debug/20.BitsUp.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 4 - Operators and Expressions/Homework/OperatorsAndExpressions/20.BitsUp/bin/Debug/20.BitsUp.exe
+/home/alex/Documents/SoftUni/Lecture 4 - Operators and Expressions/Homework/OperatorsAndExpressions/20.BitsUp/obj/x86/Debug/20.BitsUp.exe
+/home/alex/Documents/SoftUni/Lecture 4 - Operators and Expressions/Homework/OperatorsAndExpressions/20.BitsUp/obj/x86/Debug/20.BitsUp.exe.mdb

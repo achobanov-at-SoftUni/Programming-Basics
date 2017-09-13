@@ -1,0 +1,5 @@
+D:\Spand0x\07.Loops\07.Loops\04.PrintaDeckof52Cards\bin\Debug\04.PrintaDeckof52Cards.exe.config
+D:\Spand0x\07.Loops\07.Loops\04.PrintaDeckof52Cards\bin\Debug\04.PrintaDeckof52Cards.exe
+D:\Spand0x\07.Loops\07.Loops\04.PrintaDeckof52Cards\bin\Debug\04.PrintaDeckof52Cards.pdb
+D:\Spand0x\07.Loops\07.Loops\04.PrintaDeckof52Cards\obj\Debug\04.PrintaDeckof52Cards.exe
+D:\Spand0x\07.Loops\07.Loops\04.PrintaDeckof52Cards\obj\Debug\04.PrintaDeckof52Cards.pdb

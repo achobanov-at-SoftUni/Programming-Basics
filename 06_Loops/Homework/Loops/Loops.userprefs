@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="01.NumbersFromOneToN.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="18.TrailingZerosInN/TrailingZerosInN.cs">
+    <Files>
+      <File FileName="NumbersFromOneToN.cs" Line="1" Column="1" />
+      <File FileName="02.NumbersNotDividableBy7And3/NumbersNotDividableBy7And3.cs" Line="1" Column="1" />
+      <File FileName="03.MinMaxSumAverage/MinMaxSumAverage.cs" Line="1" Column="1" />
+      <File FileName="04.DeckOfCards/DeckOfCards.cs" Line="1" Column="1" />
+      <File FileName="05.CalculateFacturiels/CalculateFacturiels.cs" Line="1" Column="1" />
+      <File FileName="06.DivideFacturiels/DivideFacturiels.cs" Line="1" Column="1" />
+      <File FileName="07.DivideFacturiels2/DivideFacturiels2.cs" Line="1" Column="1" />
+      <File FileName="08.CatalanNumbers/CatalanNumbers.cs" Line="1" Column="1" />
+      <File FileName="09.MatrixOfNumbers/MatrixOfNumbers.cs" Line="1" Column="1" />
+      <File FileName="10.OddAndEvenProduct/OddAndEvenProduct.cs" Line="1" Column="1" />
+      <File FileName="11.RandomNumbersInRage/RandomNumbersInRage.cs" Line="1" Column="1" />
+      <File FileName="12.RandomizeNumbers1toN/RandomizeNumbers1toN.cs" Line="1" Column="1" />
+      <File FileName="13.BinToDecNum/BinToDecNum.cs" Line="1" Column="1" />
+      <File FileName="14.DecToBinNum/DecToBinNum.cs" Line="1" Column="1" />
+      <File FileName="15.HextoDecNum/HextoDecNum.cs" Line="1" Column="1" />
+      <File FileName="16.DecToHexNum/DecToHexNum.cs" Line="1" Column="1" />
+      <File FileName="17.CalculateGCD/CalculateGCD.cs" Line="1" Column="1" />
+      <File FileName="18.TrailingZerosInN/TrailingZerosInN.cs" Line="14" Column="38" />
+      <File FileName="18.TrailingZerosInN/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

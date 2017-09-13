@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Exam.12.07.2015/test/Test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Exam.12.07.2015/test/Test/bin/Debug/Test.exe.mdb
+/home/alex/Documents/SoftUni/Exam.12.07.2015/test/Test/bin/Debug/Test.exe
+/home/alex/Documents/SoftUni/Exam.12.07.2015/test/Test/obj/x86/Debug/Test.exe
+/home/alex/Documents/SoftUni/Exam.12.07.2015/test/Test/obj/x86/Debug/Test.exe.mdb

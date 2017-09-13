@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/11.NumberAsWords/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/11.NumberAsWords/bin/Debug/11.NumberAsWords.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/11.NumberAsWords/bin/Debug/11.NumberAsWords.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/11.NumberAsWords/obj/x86/Debug/11.NumberAsWords.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/11.NumberAsWords/obj/x86/Debug/11.NumberAsWords.exe.mdb

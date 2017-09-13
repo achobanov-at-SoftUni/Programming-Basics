@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\LoopsHomework\06.CalculateFactorialNdividedK\bin\Debug\06.CalculateFactorialNdividedK.exe.config
+C:\Users\User1\Desktop\LoopsHomework\06.CalculateFactorialNdividedK\bin\Debug\06.CalculateFactorialNdividedK.exe
+C:\Users\User1\Desktop\LoopsHomework\06.CalculateFactorialNdividedK\bin\Debug\06.CalculateFactorialNdividedK.pdb
+C:\Users\User1\Desktop\LoopsHomework\06.CalculateFactorialNdividedK\obj\Debug\06.CalculateFactorialNdividedK.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\LoopsHomework\06.CalculateFactorialNdividedK\obj\Debug\06.CalculateFactorialNdividedK.exe
+C:\Users\User1\Desktop\LoopsHomework\06.CalculateFactorialNdividedK\obj\Debug\06.CalculateFactorialNdividedK.pdb

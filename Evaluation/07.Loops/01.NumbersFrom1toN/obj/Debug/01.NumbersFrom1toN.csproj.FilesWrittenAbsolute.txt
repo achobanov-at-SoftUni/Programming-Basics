@@ -1,0 +1,2 @@
+/home/alex/Documents/SoftUni/Evaluation/07.Loops/01.NumbersFrom1toN/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Evaluation/07.Loops/01.NumbersFrom1toN/obj/Debug/01.NumbersFrom1toN.exe

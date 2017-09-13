@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe.config
+C:\Users\User1\Desktop\LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe
+C:\Users\User1\Desktop\LoopsHomework\05.Calculate\bin\Debug\05.Calculate.pdb
+C:\Users\User1\Desktop\LoopsHomework\05.Calculate\obj\Debug\05.Calculate.exe
+C:\Users\User1\Desktop\LoopsHomework\05.Calculate\obj\Debug\05.Calculate.pdb

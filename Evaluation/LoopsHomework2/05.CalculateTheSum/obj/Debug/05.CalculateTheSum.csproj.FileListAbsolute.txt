@@ -1,0 +1,5 @@
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\05.CalculateTheSum\bin\Debug\05.CalculateTheSum.exe.config
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\05.CalculateTheSum\bin\Debug\05.CalculateTheSum.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\05.CalculateTheSum\bin\Debug\05.CalculateTheSum.pdb
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\05.CalculateTheSum\obj\Debug\05.CalculateTheSum.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\05.CalculateTheSum\obj\Debug\05.CalculateTheSum.pdb

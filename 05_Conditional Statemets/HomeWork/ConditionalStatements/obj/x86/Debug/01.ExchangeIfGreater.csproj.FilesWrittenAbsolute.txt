@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/bin/Debug/wqewe.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/bin/Debug/wqewe.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/obj/x86/Debug/wqewe.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/obj/x86/Debug/wqewe.exe.mdb

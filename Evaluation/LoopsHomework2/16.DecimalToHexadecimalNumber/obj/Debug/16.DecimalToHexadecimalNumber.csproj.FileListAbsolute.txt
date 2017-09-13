@@ -1,0 +1,5 @@
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe.config
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\16.DecimalToHexadecimalNumber\bin\Debug\16.DecimalToHexadecimalNumber.pdb
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\16.DecimalToHexadecimalNumber\obj\Debug\16.DecimalToHexadecimalNumber.pdb

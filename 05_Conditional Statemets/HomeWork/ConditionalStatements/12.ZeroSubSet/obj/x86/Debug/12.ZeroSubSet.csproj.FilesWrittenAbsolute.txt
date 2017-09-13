@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/12.ZeroSubSet/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/12.ZeroSubSet/bin/Debug/12.ZeroSubSet.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/12.ZeroSubSet/bin/Debug/12.ZeroSubSet.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/12.ZeroSubSet/obj/x86/Debug/12.ZeroSubSet.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/12.ZeroSubSet/obj/x86/Debug/12.ZeroSubSet.exe.mdb

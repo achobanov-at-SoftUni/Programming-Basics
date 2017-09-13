@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="01.DifferenceBetweenDates/01.DifferenceBetweenDates.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="09.ExtractURLsFromText/ExtractURLsFromText.cs">
+    <Files>
+      <File FileName="01.DifferenceBetweenDates/DifferenceBetweenDates.cs" Line="15" Column="3" />
+      <File FileName="02.SortingNumbers/SortingNumbers.cs" Line="5" Column="20" />
+      <File FileName="03.LongestAreaInArray/LongestAreaInArray.cs" Line="16" Column="4" />
+      <File FileName="04.MatrixOfPelindromes/MatrixOfPelindromes.cs" Line="20" Column="6" />
+      <File FileName="05.LongestNonDecreasingSequence/LongestNonDecreasingSequence.cs" Line="23" Column="3" />
+      <File FileName="05.LongestNonDecreasingSequence/LongestNonDecreasingSequence2.cs" Line="20" Column="3" />
+      <File FileName="05.LongestNonDecreasingSequence/Attempt3.cs" Line="13" Column="1" />
+      <File FileName="06.RemovingNames/RemovingNames.cs" Line="11" Column="3" />
+      <File FileName="07.JoinLists/JoinLists.cs" Line="17" Column="3" />
+      <File FileName="08.LongestWordInAText/LongestWordInAText.cs" Line="31" Column="4" />
+      <File FileName="09.ExtractURLsFromText/ExtractURLsFromText.cs" Line="29" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,6 @@
+/home/alex/Documents/SoftUni/Evaluation/LoopsHomework2/01.NumbersFrom1ToN/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Evaluation/LoopsHomework2/01.NumbersFrom1ToN/bin/Debug/01.NumbersFrom1ToN.exe.config
+/home/alex/Documents/SoftUni/Evaluation/LoopsHomework2/01.NumbersFrom1ToN/bin/Debug/01.NumbersFrom1ToN.exe.mdb
+/home/alex/Documents/SoftUni/Evaluation/LoopsHomework2/01.NumbersFrom1ToN/bin/Debug/01.NumbersFrom1ToN.exe
+/home/alex/Documents/SoftUni/Evaluation/LoopsHomework2/01.NumbersFrom1ToN/obj/Debug/01.NumbersFrom1ToN.exe
+/home/alex/Documents/SoftUni/Evaluation/LoopsHomework2/01.NumbersFrom1ToN/obj/Debug/01.NumbersFrom1ToN.exe.mdb

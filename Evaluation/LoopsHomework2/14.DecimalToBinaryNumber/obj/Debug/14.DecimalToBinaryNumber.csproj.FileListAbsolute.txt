@@ -1,0 +1,5 @@
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe.config
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.pdb
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb

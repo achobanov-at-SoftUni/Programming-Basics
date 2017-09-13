@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/04.MultiplicationSign/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/04.MultiplicationSign/bin/Debug/04.MultiplicationSign.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/04.MultiplicationSign/bin/Debug/04.MultiplicationSign.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/04.MultiplicationSign/obj/x86/Debug/04.MultiplicationSign.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/04.MultiplicationSign/obj/x86/Debug/04.MultiplicationSign.exe.mdb

@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="01.NumbersFrom1toN/01.NumbersFrom1toN.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="08.CatalanNumbers/Program.cs">
+    <Files>
+      <File FileName="01.NumbersFrom1toN/NumbersFrom1toN.cs" Line="12" Column="7" />
+      <File FileName="02.NumbersNotDivisibleBy3and7/NumbersNotDivisibleBy3and7.cs" Line="2" Column="37" />
+      <File FileName="03.MinMaxSumAndAverageOfNNumbers/MinMaxSumAndAverageOfNNumbers.cs" Line="14" Column="27" />
+      <File FileName="04.PrintaDeckof52Cards/PrintaDeckof52Cards.cs" Line="17" Column="31" />
+      <File FileName="05.Calculate/Calculate.cs" Line="13" Column="10" />
+      <File FileName="06.Calculate2/Calculate2.cs" Line="17" Column="10" />
+      <File FileName="07.Calculate3/Calculate3.cs" Line="17" Column="35" />
+      <File FileName="08.CatalanNumbers/Program.cs" Line="8" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

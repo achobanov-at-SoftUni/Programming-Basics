@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/03.CheckForAPlayCard/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/03.CheckForAPlayCard/bin/Debug/03.CheckForAPlayCard.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/03.CheckForAPlayCard/bin/Debug/03.CheckForAPlayCard.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/03.CheckForAPlayCard/obj/x86/Debug/03.CheckForAPlayCard.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/03.CheckForAPlayCard/obj/x86/Debug/03.CheckForAPlayCard.exe.mdb

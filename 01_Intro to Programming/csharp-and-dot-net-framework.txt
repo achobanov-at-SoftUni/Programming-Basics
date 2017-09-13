@@ -1,0 +1,3 @@
+﻿Problem 13 – C# and .Net Framework
+
+C# is a programming language based on .NET library, while the .Net Framework consists of .NET library and Common Language Runtime ( CLR ), which is the runtime in which .NET assemblies are run.

@@ -1,0 +1,5 @@
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe.config
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.pdb
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.pdb

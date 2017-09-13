@@ -1,0 +1,7 @@
+﻿Problem 12 – Development Environments
+
+1. Eclipse – is an IDE, written in Java and is mostly used for developing applications in Java, PHP and Python. By default it includes Java libraries, but has various plug-ins for other programming languages.
+2. Vim – Vim is not exactly an IDE. It is very complicated text editor. It is very powerful, but also very hard to learn, because it is desined to be used with no mouse. I can function as an IDE, but requires proper configuration and plug-in installation.
+3. SharpDevelop – Designed as free and lightweight version of Visual Studio, back in the days when it was payed. As such it is very similar to Visual Studio, but still not as rich and powerful.
+4. Xcode – Suite of software development tools for OS X, iOS. Very different from Visual Studio, because .. well, Apple.
+5. RapidSQL – Cross-platform IDE for developing SQL application development with native support for Oracle, MS SQL, Sybase, LUW and others.

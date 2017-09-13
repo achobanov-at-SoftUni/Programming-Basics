@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe.config
+C:\Users\User1\Desktop\LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe
+C:\Users\User1\Desktop\LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.pdb
+C:\Users\User1\Desktop\LoopsHomework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.exe
+C:\Users\User1\Desktop\LoopsHomework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.pdb

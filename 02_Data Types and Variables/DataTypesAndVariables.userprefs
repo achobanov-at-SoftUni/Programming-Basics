@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="DataTypesAndVariables/01.DeclareVariables.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="16.Sunglasses/Program.cs">
+    <Files>
+      <File FileName="DataTypesAndVariables/DeclareVarialbes.cs" Line="1" Column="1" />
+      <File FileName="02.FloarOrDouble/FloatOrDouble.cs" Line="1" Column="1" />
+      <File FileName="VariableInHexademicalFormat/VariableInHex.cs" Line="1" Column="1" />
+      <File FileName="04.UnicodeCharacter/UnicodeChar.cs" Line="1" Column="1" />
+      <File FileName="05.BooleanVariable/BooleanVar.cs" Line="1" Column="1" />
+      <File FileName="06.StringsAndObjects/StringsAndObjects.cs" Line="1" Column="1" />
+      <File FileName="07.QuotesInStrings/QuotesInStrings.cs" Line="1" Column="1" />
+      <File FileName="08.IsoscelesTriangle/IsoTriangle.cs" Line="1" Column="1" />
+      <File FileName="09.ExchangeVariableValues/ExchangeVarValues.cs" Line="1" Column="1" />
+      <File FileName="10.EmployeeData/EmployeeData.cs" Line="1" Column="1" />
+      <File FileName="11.BankAccountData/BankAccountData.cs" Line="1" Column="1" />
+      <File FileName="12.NullValuesArithmetic/NullValuesArithmetic.cs" Line="1" Column="1" />
+      <File FileName="13.PrintASCIITable/PrintASCIITable.cs" Line="1" Column="1" />
+      <File FileName="14.JoroTheFootballPlayer/JoroTheFootballPlayer.cs" Line="1" Column="1" />
+      <File FileName="15.HalfSum/HalfSum.cs" Line="1" Column="1" />
+      <File FileName="16.Sunglasses/Program.cs" Line="30" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="test.cs" line="21" column="1" />
+      <Breakpoint file="/home/alex/Documents/SoftUni/Lecture 2 - Data Types and Variables/DataTypesAndVariables/test/Program.cs" line="12" column="1" />
+      <Breakpoint file="/home/alex/Documents/SoftUni/Lecture 2 - Data Types and Variables/DataTypesAndVariables/test/Program.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

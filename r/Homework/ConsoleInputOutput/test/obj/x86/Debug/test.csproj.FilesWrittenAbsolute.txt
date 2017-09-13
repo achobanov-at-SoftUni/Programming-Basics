@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 3 - Console Input-Output/Homework/ConsoleInputOutput/test/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 3 - Console Input-Output/Homework/ConsoleInputOutput/test/bin/Debug/test.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 3 - Console Input-Output/Homework/ConsoleInputOutput/test/bin/Debug/test.exe
+/home/alex/Documents/SoftUni/Lecture 3 - Console Input-Output/Homework/ConsoleInputOutput/test/obj/x86/Debug/test.exe
+/home/alex/Documents/SoftUni/Lecture 3 - Console Input-Output/Homework/ConsoleInputOutput/test/obj/x86/Debug/test.exe.mdb

@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\LoopsHomework\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe.config
+C:\Users\User1\Desktop\LoopsHomework\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe
+C:\Users\User1\Desktop\LoopsHomework\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.pdb
+C:\Users\User1\Desktop\LoopsHomework\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.exe
+C:\Users\User1\Desktop\LoopsHomework\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.pdb

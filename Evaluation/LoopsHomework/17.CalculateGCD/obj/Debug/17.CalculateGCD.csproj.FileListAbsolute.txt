@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+C:\Users\User1\Desktop\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+C:\Users\User1\Desktop\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+C:\Users\User1\Desktop\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+C:\Users\User1\Desktop\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

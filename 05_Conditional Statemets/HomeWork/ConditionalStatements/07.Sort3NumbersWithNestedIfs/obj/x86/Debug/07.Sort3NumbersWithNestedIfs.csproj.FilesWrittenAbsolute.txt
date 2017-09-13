@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/07.Sort3NumbersWithNestedIfs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/07.Sort3NumbersWithNestedIfs/bin/Debug/07.Sort3NumbersWithNestedIfs.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/07.Sort3NumbersWithNestedIfs/bin/Debug/07.Sort3NumbersWithNestedIfs.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/07.Sort3NumbersWithNestedIfs/obj/x86/Debug/07.Sort3NumbersWithNestedIfs.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/07.Sort3NumbersWithNestedIfs/obj/x86/Debug/07.Sort3NumbersWithNestedIfs.exe.mdb

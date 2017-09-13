@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/bin/Debug/Loops.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/bin/Debug/Loops.exe
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/obj/x86/Debug/Loops.exe
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/obj/x86/Debug/Loops.exe.mdb

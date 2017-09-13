@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\LoopsHomework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+C:\Users\User1\Desktop\LoopsHomework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\Users\User1\Desktop\LoopsHomework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\Users\User1\Desktop\LoopsHomework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+C:\Users\User1\Desktop\LoopsHomework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

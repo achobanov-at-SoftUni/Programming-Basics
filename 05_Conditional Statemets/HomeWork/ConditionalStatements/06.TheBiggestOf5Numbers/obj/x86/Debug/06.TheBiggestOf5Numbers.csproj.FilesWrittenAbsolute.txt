@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/06.TheBiggestOf5Numbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/06.TheBiggestOf5Numbers/bin/Debug/06.TheBiggestOf5Numbers.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/06.TheBiggestOf5Numbers/bin/Debug/06.TheBiggestOf5Numbers.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/06.TheBiggestOf5Numbers/obj/x86/Debug/06.TheBiggestOf5Numbers.exe
+/home/alex/Documents/SoftUni/Lecture 5 - Conditional Statemets/HomeWork/wqewe/06.TheBiggestOf5Numbers/obj/x86/Debug/06.TheBiggestOf5Numbers.exe.mdb

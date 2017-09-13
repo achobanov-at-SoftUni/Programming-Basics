@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/13.BinToDecNum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/13.BinToDecNum/bin/Debug/13.BinToDecNum.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/13.BinToDecNum/bin/Debug/13.BinToDecNum.exe
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/13.BinToDecNum/obj/x86/Debug/13.BinToDecNum.exe
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/13.BinToDecNum/obj/x86/Debug/13.BinToDecNum.exe.mdb

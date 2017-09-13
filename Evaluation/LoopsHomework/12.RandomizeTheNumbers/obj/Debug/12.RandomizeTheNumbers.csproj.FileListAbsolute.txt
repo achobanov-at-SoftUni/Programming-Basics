@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\LoopsHomework\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe.config
+C:\Users\User1\Desktop\LoopsHomework\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe
+C:\Users\User1\Desktop\LoopsHomework\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.pdb
+C:\Users\User1\Desktop\LoopsHomework\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.exe
+C:\Users\User1\Desktop\LoopsHomework\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\20.ExamExamSchedule\bin\Debug\20.ExamExamSchedule.exe.config
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\20.ExamExamSchedule\bin\Debug\20.ExamExamSchedule.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\20.ExamExamSchedule\bin\Debug\20.ExamExamSchedule.pdb
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\20.ExamExamSchedule\obj\Debug\20.ExamExamSchedule.csprojResolveAssemblyReference.cache
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\20.ExamExamSchedule\obj\Debug\20.ExamExamSchedule.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\20.ExamExamSchedule\obj\Debug\20.ExamExamSchedule.pdb

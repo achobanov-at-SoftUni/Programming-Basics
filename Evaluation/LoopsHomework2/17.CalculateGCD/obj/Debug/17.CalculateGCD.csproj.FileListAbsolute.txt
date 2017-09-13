@@ -1,0 +1,6 @@
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.csprojResolveAssemblyReference.cache
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

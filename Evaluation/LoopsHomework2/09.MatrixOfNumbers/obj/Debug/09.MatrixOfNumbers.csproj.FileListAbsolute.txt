@@ -1,0 +1,5 @@
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

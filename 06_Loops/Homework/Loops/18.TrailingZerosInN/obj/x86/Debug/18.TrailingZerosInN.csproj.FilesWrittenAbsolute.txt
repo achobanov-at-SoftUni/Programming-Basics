@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/18.TrailingZerosInN/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/18.TrailingZerosInN/bin/Debug/18.TrailingZerosInN.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/18.TrailingZerosInN/bin/Debug/18.TrailingZerosInN.exe
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/18.TrailingZerosInN/obj/x86/Debug/18.TrailingZerosInN.exe
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/18.TrailingZerosInN/obj/x86/Debug/18.TrailingZerosInN.exe.mdb

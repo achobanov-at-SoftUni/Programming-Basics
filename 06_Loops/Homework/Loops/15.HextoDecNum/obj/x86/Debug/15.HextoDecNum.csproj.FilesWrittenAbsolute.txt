@@ -1,0 +1,5 @@
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/15.HextoDecNum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/15.HextoDecNum/bin/Debug/15.HextoDecNum.exe.mdb
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/15.HextoDecNum/bin/Debug/15.HextoDecNum.exe
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/15.HextoDecNum/obj/x86/Debug/15.HextoDecNum.exe
+/home/alex/Documents/SoftUni/Lecture 6 - Loops/Homework/Loops/15.HextoDecNum/obj/x86/Debug/15.HextoDecNum.exe.mdb

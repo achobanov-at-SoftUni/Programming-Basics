@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\LoopsHomework\03.MinMaxSumAverageOfNNumbers\bin\Debug\03.MinMaxSumAverageOfNNumbers.exe.config
+C:\Users\User1\Desktop\LoopsHomework\03.MinMaxSumAverageOfNNumbers\bin\Debug\03.MinMaxSumAverageOfNNumbers.exe
+C:\Users\User1\Desktop\LoopsHomework\03.MinMaxSumAverageOfNNumbers\bin\Debug\03.MinMaxSumAverageOfNNumbers.pdb
+C:\Users\User1\Desktop\LoopsHomework\03.MinMaxSumAverageOfNNumbers\obj\Debug\03.MinMaxSumAverageOfNNumbers.exe
+C:\Users\User1\Desktop\LoopsHomework\03.MinMaxSumAverageOfNNumbers\obj\Debug\03.MinMaxSumAverageOfNNumbers.pdb

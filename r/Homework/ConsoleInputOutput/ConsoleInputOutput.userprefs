@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/test.cs">
+    <Files>
+      <File FileName="ConsoleInputOutput/SumOf3Numbers.cs" Line="8" Column="1" />
+      <File FileName="WorkHours/WorkHours.cs" Line="1" Column="1" />
+      <File FileName="SumOfNNumbers/SumOfNNumbers.cs" Line="1" Column="1" />
+      <File FileName="SumOfFiveNumbers/SumOfFiveNumbers.cs" Line="1" Column="1" />
+      <File FileName="SumOfElements/SumOfElements.cs" Line="1" Column="1" />
+      <File FileName="QuadraticEquation/QuadraticEquation.cs" Line="1" Column="1" />
+      <File FileName="02.PrintCompanyInformation/PrintCompanyInformation.cs" Line="1" Column="1" />
+      <File FileName="NumbersInINtervalDividableByGivenNumber/NumbersInINtervalDividableByGivenNumber.cs" Line="1" Column="1" />
+      <File FileName="NumbersFromOneToTen/NumbersFromOneToN.cs" Line="1" Column="1" />
+      <File FileName="04.NumberComparer/NumberComparer.cs" Line="1" Column="1" />
+      <File FileName="14.MagicStrings/MagicStrings.cs" Line="1" Column="1" />
+      <File FileName="05.FormattingNumbers/FormattingNumbers.cs" Line="1" Column="1" />
+      <File FileName="FibonacciNumbers/FibonacciNumbers.cs" Line="1" Column="1" />
+      <File FileName="03.CirclePerimeterAndArea/CirclePerimeterAndArea.cs" Line="1" Column="1" />
+      <File FileName="NewHouse/NewHouse.cs" Line="1" Column="1" />
+      <File FileName="test/test.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/alex/Documents/SoftUni/Lecture 3 - Console Input-Output/Homework/ConsoleInputOutput/test/test.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <StartupItems />
+</Properties>

@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"ease-",
+				"ease-in-out"
+			],
+			[
+				"important",
+				"important"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"print",
+				"print_initials"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"sub",
+				"subname"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax C",
+				"Set Syntax: C#"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 448.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alex/Documents/SoftUni/Homework/Lecture 1 - Intro to Programming/Intro-Programming-Homework/10.HorribleCode",
+		"/home/alex/Documents/SoftUni/Homework/Lecture 1 - Intro to Programming/Intro-Programming-Homework/8.SquareRoot"
+	],
+	"file_history":
+	[
+		"/home/alex/Documents/SoftUni/Homework/Lecture 1 - Intro to Programming/Intro-Programming-Homework/Intro-Programming-Homework.sublime-project",
+		"/home/alex/Documents/SoftUni/Homework/Lecture 1 - Intro to Programming/Intro-Programming-Homework/Intro-Programming-Homework.sublime-workspace",
+		"/home/alex/Documents/SoftUni/Homework/Lecture 1 - Intro to Programming/Intro-Programming-Homework/Intro-Programming-Homework.sln",
+		"/home/alex/Documents/dev-Web/Rainbow Service/backups/bootstrap.css",
+		"/home/alex/.config/sublime-text-3/Packages/User/CSS.sublime-settings",
+		"/tmp/fz3temp-1/bootstrap.css",
+		"/tmp/fz3temp-1/configuration.php",
+		"/tmp/fz3temp-1/.htaccess",
+		"/tmp/fz3temp-1/bg-BG.com_mijoshop.ini",
+		"/home/alex/.cache/.fr-K70pDx/language/bg-BG/bg-BG.com_mijoshop.ini",
+		"/home/alex/Documents/SoftUni/Programs/Variables-test.cs",
+		"/home/alex/Documents/dev-Web/Rainbow Service/backups/bg-BG.com_mijoshop.ini",
+		"/tmp/fz3temp-1/site.php",
+		"/tmp/fz3temp-1/admin2.php",
+		"/tmp/fz3temp-1/mijoshop 2.php",
+		"/tmp/fz3temp-1/index 2.html",
+		"/tmp/fz3temp-1/index.html",
+		"/tmp/fz3temp-1/mijoshop.php",
+		"/tmp/fz3temp-1/user.php",
+		"/home/alex/Documents/dev-Web/RussianSofia/Backup/configuration.php",
+		"/home/alex/test.cs",
+		"/home/alex/Documents/SoftUni/Programs/HorribleCode.cs",
+		"/home/alex/Documents/SoftUni/Programs/PrintMyNames.cs",
+		"/home/alex/Documents/SoftUni/Programs/HelloCSharp.cs",
+		"/home/alex/Documents/SoftUni/Programs/PrintMyName.cs",
+		"/home/alex/Documents/SoftUni/Programs/PrintNumbers.cs",
+		"/home/alex/Documents/SoftUni/Programs/PrintLongSequence.cs",
+		"/home/alex/Documents/SoftUni/Programs/PrintCurrentDateTime.cs",
+		"/home/alex/Documents/SoftUni/Programs/AgeAfter10Years.cs",
+		"/home/alex/Documents/SoftUni/Homework/Lecture 1 - Intro to Programming/programming-languages.txt",
+		"/home/alex/.scripts/bash/get-icn",
+		"/home/alex/fact.c",
+		"/home/alex/Documents/SoftUni/Homework/Lecture 0 - Programming Basic/Math for developers.txt",
+		"/home/alex/Documents/SoftUni/Homework/Programming Basic/Math for developers.txt",
+		"/etc/X11/xorg.conf",
+		"/home/alex/binary.c",
+		"/home/alex/Downloads/TeamSpeak3-Client-linux_amd64-3.0.16.run",
+		"/home/alex/zeros.txt",
+		"/home/alex/.bashrc",
+		"/home/alex/.scripts/expect/icn",
+		"/home/alex/.scripts/expect/exp",
+		"/home/alex/Dropbox/cs50/pset1-3/pset2/caesar.c",
+		"/home/alex/Dropbox/cs50/pset1-3/pset2/vigenere.c",
+		"/home/alex/Dropbox/cs50/pset2/new/vigenere.c",
+		"/home/alex/Dropbox/cs50/pset2/vigenere.c",
+		"/home/alex/Dropbox/cs50/pset2/caesar.c",
+		"/home/alex/Dropbox/cs50/pset2/caesar",
+		"/home/alex/Dropbox/cs50/pset2/new/caesar.c",
+		"/home/alex/Dropbox/cs50/pset2/new-caesar.c",
+		"/home/alex/Dropbox/test/test.c",
+		"/home/alex/Dropbox/test/caesar.c",
+		"/home/alex/Dropbox/cs50/pset1/wtf.c",
+		"/home/alex/Dropbox/cs50/pset1/test.c",
+		"/home/alex/Dropbox/cs50/test.c",
+		"/home/alex/Dropbox/pset2/test.c",
+		"/home/alex/Dropbox/pset2/initials.c",
+		"/home/alex/Dropbox/pset2/initials",
+		"/home/alex/Dropbox/mylib/mylib.c",
+		"/home/alex/Dropbox/pset1/hacker/credit1.c",
+		"/home/alex/Dropbox/pset1/hacker/credit.c",
+		"/home/alex/Dropbox/pset1/hacker/mario.c",
+		"/home/alex/Dropbox/pset1/hacker/credit",
+		"/home/alex/Dropbox/pset1/hacker/1.c",
+		"/home/alex/Dropbox/pset1/hacker/1",
+		"/home/alex/Dropbox/pset1/hacker/wtf.c",
+		"/home/alex/Dropbox/pset1/hacker/test.c",
+		"/home/alex/Dropbox/pset1/wtf.c",
+		"/home/alex/Dropbox/pset1-3/pset1/mario.c",
+		"/home/alex/Dropbox/pset1/greedy.c",
+		"/home/alex/Dropbox/pset1/test.c",
+		"/home/alex/Dropbox/pset1-3/pset1/greedy.c",
+		"/home/alex/Dropbox/pset1-3/pset1/greedy",
+		"/home/alex/Dropbox/pset1/hello.c",
+		"/home/alex/Dropbox/pset1/mario.c",
+		"/home/alex/Dropbox/pset1/check-cs50.sh",
+		"/home/alex/Scripts/check-cs50.sh",
+		"/home/alex/Dropbox/pset1/text",
+		"/home/alex/Scripts/Install/packs-list.sh",
+		"/home/alex/Scripts/Install/cs50-setup.sh",
+		"/home/alex/.profile",
+		"/home/alex/Scripts/locate-mkv.sh",
+		"/home/alex/Scripts/Install/bash/l",
+		"/home/alex/Scripts/Install/install-list.sh",
+		"/home/alex/Scripts/install-list.sh",
+		"/home/alex/Downloads/VMware-Workstation-Full-11.0.0-2305329.x86_64.bundle",
+		"/home/alex/Scripts/dir-tree.sh",
+		"/home/alex/Scripts/Rename/files.sh",
+		"/home/alex/ame terms as Perl itself.",
+		"/home/alex/address",
+		"/home/alex/a.out",
+		"/home/alex/house",
+		"/home/alex/Transfer/Game Stuff/wasd/links.txt",
+		"/home/alex/dates",
+		"/home/alex/Documents/dev-Web/configuration.php",
+		"/home/alex/Documents/dev-Web/config.php",
+		"/etc/apt/sources.list.d/mystilleef-scribes-daily-trusty.list",
+		"/etc/apt/sources.list.d/getdeb.list",
+		"/usr/bin/sub",
+		"/tmp/fz3temp-1/master-gecko.css",
+		"/usr/share/themes/Linux Mint/cinnamon/cinnamon.css",
+		"/usr/local/share/themes/Linux Mint/cinnamon/cinnamon.css",
+		"/home/alex/Mint/cinnamon/cinnamon.css",
+		"/usr/share/Linux",
+		"/usr/share/themes/Linux",
+		"/home/alex/Mint/theme/cinnamon.css",
+		"/usr/share/cinnamon/theme/cinnamon.css",
+		"/usr/share/themes/Mint-X-Teal/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X-Sand/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X-Red/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X-Purple/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X-Pink/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X-Orange/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X-Brown/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X-Blue/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X-Aqua/cinnamon/cinnamon.css",
+		"/usir/share/themes/Mint-X/cinnamon/cinnamon.css",
+		"/usr/share/themes/Mint-X/cinnamon/cinnamon.css",
+		"/home/alex/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/alex/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/alex/Desktop/i=asdasdasdadasd - (2015-03-15 11:09:09)",
+		"/usr/share/applications/defaults.list",
+		"/home/alex/.local/share/applications/defaults.list",
+		"/usir/share/applications/defaults.list",
+		"/home/alex/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/alex/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Лични ",
+			"Променете информацията за вашия профил\n\n\n\n\n",
+			"профил",
+			"symbol",
+			"profprof",
+			"prof",
+			"user",
+			"required",
+			"class=\"required",
+			"-35px",
+			"helvetica",
+			"host",
+			"Rainbow_service-DEV",
+			"deltame",
+			"Rainbow_service-DEV",
+			"//",
+			"(\" \"",
+			"lock",
+			"i",
+			"counter",
+			"lower",
+			"upper",
+			"//",
+			"hh",
+			"counter",
+			"coutner",
+			"input",
+			"//",
+			"//test",
+			"money",
+			"rest = change %",
+			"Desktop",
+			"sudo",
+			"horse",
+			"filename",
+			"horse",
+			"Name",
+			"article",
+			"php",
+			"+",
+			"margin-bottom",
+			"margin-top",
+			"margin-from-bottom-edge-of-screen",
+			"margin-from-top-edge-of-screen",
+			"margin-from-right-edge-of-screen",
+			"noti",
+			"notification",
+			"notifi",
+			"help",
+			"f1",
+			"notification",
+			"footer_oc",
+			"sublime_text",
+			"sublime",
+			"gedit",
+			"default",
+			"195",
+			"64",
+			"15",
+			"86"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sites/rainbow-service",
+			"rainbow",
+			"sites/rainbow-service",
+			"coutner",
+			"i",
+			"symbol",
+			"change",
+			"n =",
+			".environment/cs50/",
+			"",
+			"filename",
+			"horse",
+			"filename",
+			"2",
+			"sublime_text"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Intro-Programming-Homework.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

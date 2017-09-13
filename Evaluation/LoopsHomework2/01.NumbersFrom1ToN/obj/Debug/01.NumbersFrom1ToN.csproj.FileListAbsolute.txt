@@ -1,0 +1,5 @@
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe.config
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.pdb
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.exe
+D:\Visual Studio Community 2013\IntroCSharpBook\LoopsHomework\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.pdb

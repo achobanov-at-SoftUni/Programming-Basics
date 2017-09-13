@@ -1,0 +1,7 @@
+﻿Problem 11 - Programming Languages
+
+1. C – Originally developed by Dennis Ritchie. C is baseline for many other languages including C++, C#, Python, JavaScript and others. As far as I understand it is very similar with C# with the main difference being that it is less intuitive to lean then C#.
+2. C++ - Extremely powerful, low-level memory manipulations and with hight performance, efficiency and flexibility. Much harder to lean then C#, since it is far more cryptic then C#.
+3. Python – Very popular high level programming language. It is more similar to C#, because it emphasizes code readability and its syntax allows expressing concepts in fewer lines of code.
+4. Java – A general purpose programming language, specifically designed to have as few implementation dependencies as possible. This way applications on Java can run on different platforms without recompilation, provided that the platform supports Java of course. From what I have seen syntax looks similar to C#, but somehow not as intuitive.
+5. Assembly – a low-level programming language. Corresponds with the architecture's machine code instructions. Very cryptic and very hard to learn. Nothing like C#
